@@ -97,8 +97,7 @@ AutoMarket — автокөлік сатушылар мен сатып алуш�
 ER-диаграмма AutoMarket дерекқорындағы кестелерді, олардың негізгі өрістерін және өзара байланыстарын көрсетеді.
 
 
-
-!\[AutoMarket ER Diagram](er-diagram.png)
+![AutoMarket ER Diagram](er-diagram.png)
 
 
 
